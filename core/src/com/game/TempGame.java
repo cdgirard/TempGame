@@ -9,6 +9,7 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 public class TempGame extends ApplicationAdapter {
 	SpriteBatch batch;
 	Texture img;
+	int x;
 	
 	@Override
 	public void create () {
